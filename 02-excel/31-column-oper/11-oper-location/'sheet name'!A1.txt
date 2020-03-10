@@ -1,0 +1,3 @@
+
+
+=COUNTA('New Plan'!A1:'New Plan'!H32)
